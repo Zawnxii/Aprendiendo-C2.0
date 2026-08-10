@@ -1,0 +1,3 @@
+git add .
+git commit -m //Cambio que realize o descripcion de lo que hice
+git push -u origin main
