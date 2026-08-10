@@ -1,0 +1,10 @@
+Tipos de datos en C
+char / 1 byte / %c
+short / 2 byte / %hd
+int / 4 byte / %d
+long long / 8 byte / %ld 
+long / 8 byte / %lld
+float / 4 byte / %f
+double / 8 byte / %lf
+De igual manera podemos saver su tamaño en bytes con el sizeof(variable)
+Paginas utiles https://pc.pablopl.dev/intro
